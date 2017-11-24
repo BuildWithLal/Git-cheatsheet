@@ -456,9 +456,9 @@ For every line of file, it shows who changed it last time
 
 <br/>
 
-[Git Interview Questions 1](https://www.toptal.com/git/interview)
+[Git Interview Questions 1](https://www.toptal.com/git/interview-questions)
 <br/>
-[Git Interview Questions 2](http://mindmajix.com/git)
+[Git Interview Questions 2](https://mindmajix.com/git-interview-questions)
 
 
 
